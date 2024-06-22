@@ -1,0 +1,1 @@
+print("Halo mantan ku yg hilang kabarnya")
